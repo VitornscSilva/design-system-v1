@@ -1,0 +1,4 @@
+{
+  "extends": "@vitorsilva-dev-ui/ts-config/base.json",
+  "include": ["src"]
+}
